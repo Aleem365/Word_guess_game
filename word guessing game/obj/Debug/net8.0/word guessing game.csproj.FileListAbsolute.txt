@@ -1,0 +1,15 @@
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\bin\Debug\net8.0\word guessing game.exe
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\bin\Debug\net8.0\word guessing game.deps.json
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\bin\Debug\net8.0\word guessing game.runtimeconfig.json
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\bin\Debug\net8.0\word guessing game.dll
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\bin\Debug\net8.0\word guessing game.pdb
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.AssemblyInfoInputs.cache
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.AssemblyInfo.cs
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.csproj.CoreCompileInputs.cache
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.sourcelink.json
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.dll
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\refint\word guessing game.dll
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.pdb
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\word guessing game.genruntimeconfig.cache
+F:\C# pra\2nd Week (C# OPP)\word guessing game\word guessing game\obj\Debug\net8.0\ref\word guessing game.dll
